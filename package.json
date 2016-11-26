@@ -1,8 +1,8 @@
 {
-  "name": "your-app-name",
+  "name": "MBD",
   "cozy-type": "static",
-  "cozy-displayName": "Your App's Name",
+  "cozy-displayName": "MBD",
   "version": "1.0.0",
-  "description": "Your app's description",
+  "description": "Metro boulot Dodo",
   "icon-path": "main_icon.png"
 }
